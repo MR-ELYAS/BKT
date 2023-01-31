@@ -2,7 +2,7 @@ import os, platform
 try:
     import requests
 except:
-    os.system('git pull)
+    os.system('git pull')
 import requests
 import time
 bit = platform.architecture()[0]
