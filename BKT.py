@@ -8,7 +8,7 @@ import time
 bit = platform.architecture()[0]
 if bit == '64bit':
     print('\033[1;34m\n Congratulations! Your Device Support This Tools\033[1;37m');time.sleep(2)
-    from bkt_enc import asad
+    from BKT2 import asad
     asad()
 elif bit == '32bit':
     print('\n YOUR DEVICE IS NOT SUPPORT THIS COMMAND')
