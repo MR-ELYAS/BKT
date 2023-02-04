@@ -14,8 +14,8 @@ def Run():
             xoss("\x1b[1;92m[●] Congratulations ! Your Device Support this Tools 🍼🙂")
             xoss('\x1b[1;94m[●] Follow My Facebook First 🎈')
             os.system('xdg-open https://www.facebook.com/EKINGCMD')
-            from BKT import refat
-            refat()
+            from HYPER import BKT
+            BKT()
         elif bit == '32bit':
             xoss("\n\x1b[1;92m[●] Congratulations ! Your Device Support this Tools 🍼🙂")
             xoss('\x1b[1;94m[●] Follow My Github First 🎈')
