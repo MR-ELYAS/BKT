@@ -19,8 +19,7 @@ def Run():
             xoss("\n\x1b[1;92m[●] Congratulations ! Your Device Support this Tools 🍼🙂")
             xoss('\x1b[1;94m[●] Follow My Github First 🎈')
             os.system('xdg-open https://github.com/MR-ELYAS')
-            from BKT import refat
-            refat()
+            import BKT
         else:
             exit('\033[1;31m[●] Connection & Network Error 🤕')
 Run()
