@@ -15,7 +15,5 @@ COMMAND 🤫🦋:
 rm -rf BKT
 git clone https://github.com/MR-ELYAS/BKT
 cd BKT
-git pull
-chmod 777 BKT
-./BKT
+python BKT.py
 ```
