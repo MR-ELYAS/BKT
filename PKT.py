@@ -12,6 +12,7 @@ def Run():
         bit = platform.architecture()[0]
         if bit == '64bit':
             xoss("\x1b[1;92m[●] Congratulations ! Your Device Support this Tools 🍼🙂")
+            xoss("\x1b[1;92m[●] Your Device 64 BIT 🙂")
             xoss('\x1b[1;94m[●] Follow My Facebook First 🎈')
             os.system('xdg-open https://www.facebook.com/EKINGCMD')
             from BKT import refat
