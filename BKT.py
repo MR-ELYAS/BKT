@@ -19,10 +19,10 @@ def Run():
             os.system("YYT.py")
 
         elif bit == '32bit':
-            xoss("\n\x1b[1;92m[●] Sorry ! Your Device Not Support Tools 💔");time.sleep(1)
-            xoss("\x1b[1;92m[●] Your Device 32 BIT 💥");time.sleep(1)
-            xosxosss('\x1b[1;94m[●] Follow My Github First \033[1;97m🎈')
-            os.system('xdg-open https://github.com/MR-ELYAS')
+            xoss("\n\x1b[1;92m[●] Sorry ! Your Device Not Support Tools 💔");time.sleep(1);exit()
+
+
+
             print(50*"-")
 
         else:
