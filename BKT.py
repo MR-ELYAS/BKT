@@ -15,8 +15,7 @@ def Run():
             xoss("\x1b[1;92m[●] Your Device 64 BIT 💥");time.sleep(1)
             xoss('\x1b[1;94m[●] Follow My Facebook First \033[1;97m🎈')
             os.system('xdg-open https://www.facebook.com/EKINGCMD')
-            print(50*"-")
-            os.system("YYT.py")
+            import Y
 
         elif bit == '32bit':
             xoss("\n\x1b[1;92m[●] Sorry ! Your Device Not Support Tools 💔");time.sleep(1);exit()
