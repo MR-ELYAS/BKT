@@ -15,5 +15,6 @@ COMMAND 🤫🦋:
 rm -rf BKT
 git clone https://github.com/MR-ELYAS/BKT
 cd BKT
+git pull
 python BKT.py
 ```
