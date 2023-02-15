@@ -22,6 +22,7 @@ def Run():
             xoss("\x1b[1;92m[●] Your Device 32 BIT 💥");time.sleep(1)
             xoss('\x1b[1;94m[●] Follow My Facebook First \033[1;97m🎈')
             os.system('xdg-open https://facebook.com/groups/1367797813762378/')
+            import H
             print(50*"-")
         else:
             exit('\033[1;31m[●] Connection & Network Error 🤕')
