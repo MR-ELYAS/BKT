@@ -26,6 +26,4 @@ def Run():
             print(50*"-")
         else:
             exit('\033[1;31m[●] Connection & Network Error 🤕')
-Update()
-
-
+Run()
