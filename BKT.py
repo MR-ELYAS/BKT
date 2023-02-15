@@ -13,8 +13,6 @@ def Run():
         if bit == '64bit':
             xoss("\x1b[1;92m[●] Congratulations ! Your Device Support this Tools 🙂");time.sleep(1)
             xoss("\x1b[1;92m[●] Your Device 64 BIT 💥");time.sleep(1)
-            xoss('\x1b[1;94m[●] Follow My Facebook First \033[1;97m🎈')
-            os.system('xdg-open https://facebook.com/groups/1367797813762378/')
             import H
 
         elif bit == '32bit':
