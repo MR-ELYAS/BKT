@@ -8,7 +8,7 @@ pip install requests
 pip install rich
 pip install pc
 ```
-
+32+64 Bit Platform 
 
 COMMAND 🤫🦋:
 ```
