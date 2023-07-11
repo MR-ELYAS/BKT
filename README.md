@@ -1,4 +1,4 @@
-FREE BKT COMMAND 🦋
+Paid Bkt Bkt 🦋
 
 ```
 apt update
