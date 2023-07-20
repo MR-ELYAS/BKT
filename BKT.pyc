@@ -1,0 +1,7 @@
+import os
+import sys
+import time
+
+print('[+] Bkt Command In Update \n[√] Try Another Time ')
+time.sleep(1)
+exit()
